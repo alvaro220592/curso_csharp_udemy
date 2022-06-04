@@ -1,1 +1,9 @@
-teste
+.NET
+BCL - Base Class Library - Biblioteca base de classes
+CLR - Common Language Runtime - É a máquina virtual do .net, assim como a JVM do Java
+
+.NET Standard - Especificação .nET
+.NET Framework - usado pra criar app windows desktop e web ASP.NET
+Mono - Pra criar jogos multiplataforma
+Xamarin - criar app móveis híbridos pra iOS e Android, para aplicações desktop pra Mac OS
+.NET Core - Pra criar aplicativos modo console multiplataforma e também pra criar aplicativos web ASP.NET Core e serviços pra nuvem.

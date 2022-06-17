@@ -7,3 +7,41 @@ CLR - Common Language Runtime - É a máquina virtual do .net, assim como a JVM 
 Mono - Pra criar jogos multiplataforma
 Xamarin - criar app móveis híbridos pra iOS e Android, para aplicações desktop pra Mac OS
 .NET Core - Pra criar aplicativos modo console multiplataforma e também pra criar aplicativos web ASP.NET Core e serviços pra nuvem.
+
+
+seção 3
+    O código fonte pra mexer fica no 'program.cs';
+
+    O tipo de dado char usado pra guardar um caracter é declarado entre aspas simples: char genero = 'F'; Ele pode também ser declarado não só com uma letra direto mas também com o código unicode dela. Ex: char letra = '\u0041';
+
+    O tipo de dado float deve ser declarado com a letra f no final: float numero = 99.90f;
+    O tipo de dado double não precisa de indicação
+    O tipo de dado string deve ser declarado com aspas duplas
+
+    Nomes de variáveis: costuma-se usar camelCase
+    Convenções:
+        Camel Case: lastName - parametros de funções, variávels dentro de funções
+        Pascal Case: LastName - namespaces, classes, propriedades e métodos;
+        Padrão com underline na frente: _lastName: atributos internos da classe
+
+    Saída de dados e C#
+        definir o nº de casas decimais ao exibir: Console.WriteLine(variavel.ToString("F2"));
+        trocar vírgula por ponto, etc:
+            importa o SYstem.Globalization.
+            Console.WriteLine(variavel.ToString("F2", CultureInfo.InvariantCulture));
+
+    Conversão implícita e casting:
+        Conversão implícita - é quando se coverte apenas atribuindo uma variável a outra de tipo diferente:
+        float x = 7.5F;
+        double y = x;
+
+        Como float ocupa 4 bytes e double 8, então dá pra converter implicitamente pois float cabe em double
+        Não daria certo se fosse o contrário
+
+    Entrada de dados
+        o Split se usa com aspas simples na hora de citar o separador: var.Split('/');
+        um array se declara assim: string[]
+
+
+    Métodos são funções quando, quando usadas em classes.
+    Se a função Main é static, vai chamar então funções static

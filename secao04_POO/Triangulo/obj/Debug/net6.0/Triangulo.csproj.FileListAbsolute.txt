@@ -1,0 +1,15 @@
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.csproj.AssemblyReference.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.AssemblyInfoInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.AssemblyInfo.cs
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.csproj.CoreCompileInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/bin/Debug/net6.0/Triangulo
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/bin/Debug/net6.0/Triangulo.deps.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/bin/Debug/net6.0/Triangulo.runtimeconfig.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/bin/Debug/net6.0/Triangulo.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/bin/Debug/net6.0/Triangulo.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/refint/Triangulo.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/Triangulo.genruntimeconfig.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Triangulo/obj/Debug/net6.0/ref/Triangulo.dll

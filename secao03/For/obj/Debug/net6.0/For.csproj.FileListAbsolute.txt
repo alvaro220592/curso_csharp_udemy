@@ -1,0 +1,15 @@
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.csproj.AssemblyReference.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.AssemblyInfoInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.AssemblyInfo.cs
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.csproj.CoreCompileInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/bin/Debug/net6.0/For
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/bin/Debug/net6.0/For.deps.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/bin/Debug/net6.0/For.runtimeconfig.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/bin/Debug/net6.0/For.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/bin/Debug/net6.0/For.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/refint/For.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/For.genruntimeconfig.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/For/obj/Debug/net6.0/ref/For.dll

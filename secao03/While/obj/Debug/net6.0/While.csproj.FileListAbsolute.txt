@@ -1,0 +1,15 @@
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/bin/Debug/net6.0/While
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/bin/Debug/net6.0/While.deps.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/bin/Debug/net6.0/While.runtimeconfig.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/bin/Debug/net6.0/While.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/bin/Debug/net6.0/While.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.csproj.AssemblyReference.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.AssemblyInfoInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.AssemblyInfo.cs
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.csproj.CoreCompileInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/refint/While.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/While.genruntimeconfig.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/While/obj/Debug/net6.0/ref/While.dll

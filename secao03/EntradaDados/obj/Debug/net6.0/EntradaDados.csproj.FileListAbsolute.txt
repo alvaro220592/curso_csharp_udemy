@@ -1,0 +1,15 @@
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/bin/Debug/net6.0/EntradaDados
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/bin/Debug/net6.0/EntradaDados.deps.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/bin/Debug/net6.0/EntradaDados.runtimeconfig.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/bin/Debug/net6.0/EntradaDados.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/bin/Debug/net6.0/EntradaDados.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.csproj.AssemblyReference.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.AssemblyInfoInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.AssemblyInfo.cs
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.csproj.CoreCompileInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/refint/EntradaDados.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/EntradaDados.genruntimeconfig.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao03/EntradaDados/obj/Debug/net6.0/ref/EntradaDados.dll

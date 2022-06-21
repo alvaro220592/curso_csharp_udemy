@@ -45,3 +45,31 @@ seção 3
 
     Métodos são funções quando, quando usadas em classes.
     Se a função Main é static, vai chamar então funções static
+
+    aula 43 - Object e ToString
+        com a Sobreposição(override), é possível retornar dados do objeto dentro de um ConsoleWriteLine de forma mais fácil:
+            Na classe do Estoque:
+            public override string ToString()
+            {
+                return $"Produto: {this.Name}, preço unitário: R${this.Price.ToString("F2", CultureInfo.InstalledUICulture)}, qtde. em estoque: {this.Quantity}, valor total: R${this.TotalInventoryValue().ToString("F2", CultureInfo.InstalledUICulture)}";
+            }
+
+            Aí na classe Program:
+            Console.WriteLine(p);
+        
+        vai trazer todo o texto da função override
+
+    exercicio 45:
+        1 - classe Retangulo
+            lê os valores de largura, largura, faz o calculo da área e perímetro.
+            atributos: altura, largura
+            metodos: Area, Perimetro
+
+        2 - classe Funcionario
+            Lê dados do funcionario: nome, salario bruto e imposto. Em seguida mostra o nome e o salário líquido. Recebe um número em porcentagem para aumentar o salário e mostra os dados atualizados
+            atributos: nome, salario bruto, imposto
+            metodos: SalarioLiquido(pra mostrar o salario com o desconto), AumentoSalario
+
+        3 - Aluno
+            Lê o nome do aluno, e 3 notas. A primeira vale no máximo 30 e as outras 35. Se a média final for menor que 60, é reprovado e tem que mostrar quantos pontos faltaram
+            Mostra a media final e o status(aprovado ou reprovado)

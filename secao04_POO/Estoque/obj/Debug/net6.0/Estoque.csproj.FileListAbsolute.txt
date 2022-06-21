@@ -1,0 +1,15 @@
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/bin/Debug/net6.0/Estoque
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/bin/Debug/net6.0/Estoque.deps.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/bin/Debug/net6.0/Estoque.runtimeconfig.json
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/bin/Debug/net6.0/Estoque.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/bin/Debug/net6.0/Estoque.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.csproj.AssemblyReference.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.AssemblyInfoInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.AssemblyInfo.cs
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.csproj.CoreCompileInputs.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/refint/Estoque.dll
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.pdb
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/Estoque.genruntimeconfig.cache
+/home/alvaro/Documentos/cursos/c#/curso_csharp_udemy/secao04_POO/Estoque/obj/Debug/net6.0/ref/Estoque.dll
